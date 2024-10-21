@@ -39,12 +39,41 @@ The application includes online payment gateways, allowing users to pay appointm
 This project can be customized to suit different requirements and provides a robust foundation for building appointment management systems for healthcare professionals.
 
 
-![screencapture-localhost-5173-appointment-66fc1eaf46c786743e088b97-2024-10-21-21_46_22](https://github.com/user-attachments/assets/1c8f0251-08fa-4b81-9463-1dd7ca67f6b9)
-![screencapture-localhost-5173-2024-10-21-21_45_45](https://github.com/user-attachments/assets/6987c9b7-33c8-49a1-963b-16a617660148)
-![screencapture-localhost-5174-doctor-profile-2024-10-21-21_50_45](https://github.com/user-attachments/assets/5fb601a3-9f46-4750-a944-93bcb431e919)
-![screencapture-localhost-5174-doctor-dashboard-2024-10-21-21_50_23](https://github.com/user-attachments/assets/b17664a7-5db7-4805-be79-1ab594cd1d2f)
-![screencapture-localhost-5174-admin-dashboard-2024-10-21-21_48_39](https://github.com/user-attachments/assets/f0fc9046-e2bb-4ab4-953d-6242e067e3aa)
-![screencapture-localhost-5174-2024-10-21-21_49_24](https://github.com/user-attachments/assets/3dc2c811-0da2-44fd-bd90-6aa593512eda)
-![screencapture-localhost-5173-my-profile-2024-10-21-21_47_04](https://github.com/user-attachments/assets/8eca3d93-22d8-44c3-a1e2-0470952c6964)
-![screencapture-localhost-5173-doctors-2024-10-21-21_47_20](https://github.com/user-attachments/assets/71f91c79-b6ab-4716-904c-2dd8cef107e4)
+# Homepage
+![screencapture-localhost-5173-2024-10-21-21_45_45](https://github.com/user-attachments/assets/f9fe8773-2245-4ab9-a84c-0f400b5d1ad6)
+
+# All Doctor
+![screencapture-localhost-5173-doctors-2024-10-21-21_47_20](https://github.com/user-attachments/assets/b39365e8-e2c4-46c8-b582-47f3b7f69db7)
+
+# on click doctor profile to book appointment
+![screencapture-localhost-5173-appointment-66fc1eaf46c786743e088b97-2024-10-21-21_46_22](https://github.com/user-attachments/assets/3d83c4d3-81f7-4ce8-b175-f4e0bbef5a1b)
+
+# get all appointment details
+![screencapture-localhost-5173-my-appointments-2024-10-21-21_46_44](https://github.com/user-attachments/assets/434442a9-745a-4064-8537-f73e23a5d170)
+
+
+# user profile and update user profile
+![screencapture-localhost-5173-my-profile-2024-10-21-21_47_04](https://github.com/user-attachments/assets/9b448755-fc8d-4719-b72e-98c227fec287)
+
+# Admin Dashboard
+In admin dashboard you can check latest doctor apoointment and check your patients appointment and youc add new doctor and see the list of all doctors
+
+![screencapture-localhost-5174-admin-dashboard-2024-10-21-21_48_39](https://github.com/user-attachments/assets/753027e7-c7d7-4e41-89d0-cbf8a265d027)
+
+![screencapture-localhost-5174-all-appointments-2024-10-21-21_48_58](https://github.com/user-attachments/assets/20da5933-77cc-4a61-94b4-1430012ad0cd)
+
+![screencapture-localhost-5174-add-doctor-2024-10-21-22_03_04](https://github.com/user-attachments/assets/b9113888-c1a0-4026-a692-d1b769d95935)
+
+![screencapture-localhost-5174-doctor-list-2024-10-21-21_49_05](https://github.com/user-attachments/assets/deb27942-c5f5-45cd-b76e-b7028d8ff3f6)
+
+# Doctor Dashboard
+In doctor dashboard doctor check their earning,patients appointment and update their profile
+
+![screencapture-localhost-5174-doctor-dashboard-2024-10-21-21_50_23](https://github.com/user-attachments/assets/e9111888-b86c-4416-afb7-5b208b91c945)
+![screencapture-localhost-5174-doctor-appointments-2024-10-21-21_50_35](https://github.com/user-attachments/assets/2433fa44-e3e1-42aa-b5dc-b96f46830c51)
+![screencapture-localhost-5174-doctor-profile-2024-10-21-21_50_45](https://github.com/user-attachments/assets/4aa5b34a-22b2-479d-aa3c-7fab97501539)
+
+
+
+
 
